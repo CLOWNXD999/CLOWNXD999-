@@ -76,8 +76,8 @@ global.mess = {
 }
 
 //--------------- Menu images ----------------\\
-global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
-global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
+global.Menuimage = fs.readFileSync("./https://i.imgur.com/D0QNBtd.jpeg")
+global.thumnnaiIs = fs.readFileSync("./https://i.imgur.com/D0QNBtd.jpeg")
 
 //--------------- Systemic Function --------------\\
 global.autoTyping = false 
